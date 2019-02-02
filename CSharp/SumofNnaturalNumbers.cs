@@ -10,4 +10,4 @@ class MainClass {
     }
     Console.Write("The sum of first " + Count + " natural numbers is " + Sum + ".");
   }
-}
+} 
